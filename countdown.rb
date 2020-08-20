@@ -8,4 +8,4 @@ def countdown (i)
   return "HAPPY NEW YEAR!"
 end
 
-countdown(10)
+puts countdown(10)
